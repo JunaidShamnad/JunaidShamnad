@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Junaid Shamnad</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+, I'm Junaid Shamnad</h1>
 <h3 align="center">A techy boy trying to figure out stuff's</h3>
 
 - 🔭 I’m currently working on [Intelpik](https://www.intelpik.com)
