@@ -29,5 +29,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=junaidshamnad&show_icons=true&locale=en&theme=chartreuse-dark" alt="junaidshamnad" /></p>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JunaidShamnad&theme=midnight-purple)   
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JunaidShamnad&theme=midnight-purple)](https://github.com/JunaidShamnad/github-readme-streak-stats&theme=midnight-purple)
