@@ -30,4 +30,4 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JunaidShamnad&theme=midnight-purple)   
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JunaidShamnad)](https://github.com/JunaidShamnad/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JunaidShamnad&theme=midnight-purple)](https://github.com/JunaidShamnad/github-readme-streak-stats&theme=midnight-purple)
