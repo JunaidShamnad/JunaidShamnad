@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **junaidshamnade@gmail.com**
 
+- ❤️ **React** Lover
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
