@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Intelpik](https://www.intelpik.com)
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on more **Open Source Projects**
 
 - 📫 How to reach me **junaidshamnade@gmail.com**
 
