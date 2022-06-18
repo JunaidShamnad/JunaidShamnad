@@ -1,7 +1,7 @@
 ![Web&App Design and Development](https://github.com/JunaidShamnad/JunaidShamnad/blob/main/banner.jpg)
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="100px">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="50px">
 , I'm Junaid Shamnad</h1>
 <h3 align="center">A techy boy trying to figure out stuff's</h3>
 
