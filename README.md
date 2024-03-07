@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on more **Open Source Projects**
 
-- 📫 How to reach me **intelpik@gmail.com**
+- 📫 How to reach me **junaid@intelpik.com**
 
 - ❤️ **React** Lover
 
